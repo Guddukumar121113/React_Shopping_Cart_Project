@@ -1,0 +1,77 @@
+ const products = [
+    {
+      id: 0,
+      title: "Samsung S20",
+      description: "black in color",
+      price: "2500",
+      img: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=0260",
+      quantity: 0,
+    },
+    {
+      id: 2,
+      title: "Samsung M20",
+      description: "white in color",
+      price: "2300",
+      img: "https://images.pexels.com/photos/47260/pexels-photo-47260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=0260",
+      quantity: 0,
+    },
+    {
+      id: 3,
+      title: "Redmi 9",
+      description: "black in color",
+      price: "3500",
+      img: "https://images-na.ssl-images-amazon.com/images/I/70A9Vo0BatL._SL0500_.jpg",
+      quantity: 0,
+    },
+    {
+      id: 4,
+      title: "Iphone 02",
+      description: "Best mobile ever",
+      price: "90500",
+      img: "https://images-na.ssl-images-amazon.com/images/I/70hIfcIPyxS._SL0500_.jpg",
+      quantity: 0,
+    },
+    {
+      id: 5,
+      title: "Samsung S20",
+      description: "black in color",
+      price: "2500",
+      img: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=0260",
+      quantity: 0,
+    },
+    {
+      id: 6,
+      title: "Redmi 9",
+      description: "black in color",
+      price: "3500",
+      img: "https://images-na.ssl-images-amazon.com/images/I/70A9Vo0BatL._SL0500_.jpg",
+      quantity: 0,
+    },
+    {
+      id: 7,
+      title: "Samsung S20",
+      description: "black in color",
+      price: "2500",
+      img: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=0260",
+      quantity: 0,
+    },
+    {
+      id: 8,
+      title: "Iphone 02",
+      description: "Best mobile ever",
+      price: "90500",
+      img: "https://images-na.ssl-images-amazon.com/images/I/70hIfcIPyxS._SL0500_.jpg",
+      quantity: 0,
+    },
+    {
+      id: 9,
+      title: "Samsung S20",
+      description: "black in color",
+      price: "2500",
+      img: "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=0260",
+      quantity: 0,
+    },
+  ];
+
+  export default products;
+  
